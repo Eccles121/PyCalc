@@ -1,0 +1,2 @@
+# PyCalc
+Simple python calculator
